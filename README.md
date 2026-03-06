@@ -1,6 +1,15 @@
-**Note:** The final project has been submitted and is currently under review. The official course certificate will be added to this repository once available.
-
 # Advanced Business Strategy Analysis
+[![Portfolio](https://img.shields.io/badge/Data%20Velho-Rishi-blueviolet)](https://rishi-analytics.github.io/)
+![Course](https://img.shields.io/badge/Course-Advanced%20Business%20Strategy-blue)
+![University](https://img.shields.io/badge/Provider-University%20of%20Virginia-orange)
+![Project](https://img.shields.io/badge/Project-Strategic%20Analysis-green)
+![Frameworks](https://img.shields.io/badge/Frameworks-Competitive%20Strategy-purple)
+![Company](https://img.shields.io/badge/Case%20Study-Finnair-lightblue)
+![Status](https://img.shields.io/badge/Certificate-complete-green)
+
+<p id="PySpark_Certificate" align="center">
+<img src="course_certificate.png"  width="600"  height="600">
+</p>
 
 This repository presents a concise strategic analysis project completed as part of the **Advanced Business Strategy** course by the **University of Virginia**. The work applies core strategy frameworks to evaluate the competitive position of **Finnair** in the global aviation industry.
 
