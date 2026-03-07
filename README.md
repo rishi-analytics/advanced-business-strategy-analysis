@@ -47,6 +47,9 @@ The main project in this repository analyzes **Finnair** using the above framewo
 - The firm remains competitive through hub efficiency, international connectivity, and related diversification in aviation services
 - Major pressures include cost competition, environmental regulation, and industry disruption
 
+## What I studied?
+In this course I learned how firms build and sustain competitive advantage. I studied how industries evolve over time using competitive life cycle analysis, how stakeholder pressures affect strategic decisions, how companies expand internationally, and how diversification across businesses can create or destroy value. I applied these frameworks in a strategic analysis of Finnair to evaluate its competitive position, opportunities, and risks.
+
 ## Files
 
 - `finnair_strategy_report.md`  
